@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "omnisharp.enableAsyncCompletion": true,
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.organizeImportsOnFormat": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.compactFolders": false,
+    "csharpextensions.privateMemberPrefix": "_",
+    "csharpextensions.useThisForCtorAssignments": false,
+    "editor.fontFamily": "JetBrains Mono, JetBrains Mono NL, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always"
+}
